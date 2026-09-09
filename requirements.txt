@@ -1,0 +1,10 @@
+cryptography
+argon2-cffi
+flask
+requests
+pyotp
+urllib3
+pyperclip
+customtkinter
+packaging
+pillow

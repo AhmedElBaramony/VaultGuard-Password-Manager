@@ -1,0 +1,28 @@
+# macOS
+.DS_Store
+
+# IDE / editor
+.idea/
+*.iml
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+venv/
+.venv/
+env/
+
+# Build output
+bin/
+out/
+target/
+build/
+dist/
+node_modules/
+
+# Logs
+*.log
